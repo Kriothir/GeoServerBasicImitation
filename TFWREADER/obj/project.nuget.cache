@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xETbbUH8QA00x5t97y2kaJ82lSwCDEwBDi0ZfzdO2c5/X3Z17bIMsgLSj4lL2ua/xNb8nCRou9qbcaTfKgIjYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\TFWREADER\\TFWREADER\\TFWREADER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
