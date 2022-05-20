@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\bin\Debug\SimpleHTTPServer.exe.config
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\bin\Debug\SimpleHTTPServer.exe
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\bin\Debug\SimpleHTTPServer.pdb
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.Properties.Resources.resources
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.exe
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\SimpleHTTPServer.pdb
+C:\Users\Admin\Desktop\Simple-HTTP-Server-Using-Visual-C-Sharp-main\SimpleHTTPServer\obj\Debug\HTTPSServer.Form1.resources
